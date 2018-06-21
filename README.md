@@ -2,9 +2,11 @@
 Make csv datas to use handson
 
 makefile.py -> ランダムな0~1の点をcsvで作成するプログラム
+
 savedigit.py -> 8×8ピクセルの手書き数字画像をcsvで作成するプログラム
 
 [詳しい解説][1]
+
 [詳しい解説][2]
 
 ## License
